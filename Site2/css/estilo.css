@@ -1,0 +1,46 @@
+body{
+			background-color: #EE82EE;
+			background-repeat: round;
+			font-family: arial. sans-serif;
+		}
+
+		h1,h2{
+			text-align: center;
+			color:#000080;
+			font-weight: bolder;
+	}	
+
+		p{
+
+			color: #FF8C00;
+			font-weight: bolder;
+			font-size: 35px;
+			text-align:justify;
+
+		}
+		
+		.centro{
+			color: #4169E1;
+			text-align: center;
+		}
+
+
+		ul li, ol li{
+
+			text-decoration: underline;
+			color: #FF0000;
+			font-weight: bolder;
+
+}
+
+		figure{
+
+			text-align: center;
+			border:6px dashed #EE82EE;
+
+		}
+
+		img{
+			width: :45%;
+			border: 5px dashed;
+		}
