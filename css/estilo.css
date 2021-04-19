@@ -45,3 +45,9 @@ body{
 			width: :45%;
 			border: 5px dashed;
 		}
+		
+		td{
+			color: 000080;
+			font-weight: 40px;
+			background-color: rgb(255, 165, 0);
+		}
